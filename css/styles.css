@@ -1,0 +1,186 @@
+
+header{
+
+}
+
+body{
+font-family: "Montserrat", sans-serif;
+font-weight: 400;
+padding-left: 40px;
+padding-top: 40px;
+padding-right: 40px;
+margin: 0;
+/* padding-bottom: 40px; */
+background: #f6f6fa;
+
+}
+
+li{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #595959;
+}
+
+h1{
+font-family: "Montserrat", sans-serif;
+font-weight: 700;
+font-size: 45px;
+padding-top: 8px ;
+padding-bottom: 12px;
+line-height: 122%;
+margin: 0;
+color: #000;
+}
+   
+h2{
+font-family: "Montserrat", sans-serif;
+font-weight: 700;
+font-size: 14px;
+line-height: 121%;
+color: #000;
+}
+
+h3{
+font-family: "Montserrat", sans-serif;
+font-weight: 700;
+font-size: 22px;
+line-height: 123%;
+color: #000;
+}
+    
+
+h4{
+font-family: "Montserrat", sans-serif;
+font-weight: 700;
+font-size: 16px;
+color: #000;
+}
+    
+
+p{
+font-family: "Montserrat", sans-serif;
+font-weight: 400;
+font-size: 12px;
+color: #a8a8a8;
+}  
+
+
+.wrapper{
+display: flex;
+flex-direction: row-reverse;
+background-color: #fff;
+}
+.main-content{
+padding-left: 88px;
+padding-top: 80px;
+padding-right: 40px;
+padding-bottom: 80px;
+box-sizing: border-box;
+}
+
+.my-info{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #595959;
+}
+
+.my-projects{
+color: #000;
+}
+
+.projects-li-link{
+font-family: "Montserrat", sans-serif;
+font-weight: 700;
+font-size: 14px;
+line-height: 171%;
+
+
+}
+/* .projects-link{
+} */
+.work{
+/* width: 526px;
+height: 536px; */
+padding-top: 40px;
+padding-bottom: 40px;
+}
+
+.text-color{
+font-weight: 700;
+font-size: 16px;
+line-height: 125%;
+color: #6d9bf5;
+}
+
+.management{
+font-weight: 700;
+font-size: 14px;
+color: #000;
+}
+
+.education{
+}
+
+.tel-link{
+text-decoration: underline;
+text-decoration-skip-ink: none;
+color: #2979ff;
+}
+.mailto-link{
+text-decoration: underline;
+text-decoration-skip-ink: none;
+color: #2979ff;
+}
+    
+
+.tel{
+font-weight: 700;
+font-size: 14px;
+line-height: 171%;
+color: #161d2a;
+}
+.mailto{
+font-weight: 700;
+font-size: 14px;
+line-height: 171%;
+color: #161d2a;
+}
+
+
+
+
+.contact{
+font-weight: 700;
+font-size: 22px;
+padding-left: 40px;
+padding-top: 40px;
+padding-bottom: 40px;
+color: #161d2a;
+}
+
+.tech-skills{
+padding-left: 40px;
+padding-bottom: 40px;
+
+}
+
+.soft-skills{
+font-family: "Montserrat", sans-serif;
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+padding-left: 40px;
+color: #161d2a;
+}
+
+
+aside{
+padding-top: 40px;
+width: 370px;
+height: 1319px;
+
+
+background: #e0ebfe;
+}
